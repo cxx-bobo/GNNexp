@@ -4,4 +4,4 @@
 `conda install -c dglteam/label/cu117 dgl`<br>
 `pip install requests torchmetrics==0.11.4 ogb`<br>
 
-运行：`python3 node_classification`
+运行：`python3 node_classification.py`
